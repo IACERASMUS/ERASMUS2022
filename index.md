@@ -14,5 +14,6 @@ Confirmed lecturers:
 - [Henri M.J. Boffin (ESO, DE)](https://www.eso.org/~hboffin/)
 - [Cole Johnston (Radboud, NL)](https://stellarshenanigans.com/)
 - Alberto Rebassa-Mansergas (UPC, ES)
+- Alba Aller (Virtual observatory, ES)
 
 

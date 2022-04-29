@@ -16,4 +16,4 @@ Confirmed lecturers:
 - Alberto Rebassa-Mansergas (UPC, ES)
 - Alba Aller (Virtual observatory, ES)
 
-[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) Deadline June 15th 2022
+### [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) Deadline June 15th 2022

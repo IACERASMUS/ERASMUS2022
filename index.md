@@ -16,4 +16,6 @@ Confirmed lecturers:
 - Alberto Rebassa-Mansergas (UPC, ES)
 - Alba Aller (Virtual observatory, ES)
 
+Please direct any questions to erasmus.plus (at) iac.es
+
 # [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) * Deadline June 15th 2022 *

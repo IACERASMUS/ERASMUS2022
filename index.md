@@ -13,8 +13,9 @@ Confirmed lecturers:
 - [David Jones (IAC, ES)](http://www.drdjones.net/)
 - [Henri M.J. Boffin (ESO, DE)](https://www.eso.org/~hboffin/)
 - [Cole Johnston (Radboud, NL)](https://stellarshenanigans.com/)
+- [Laurent Eyer (Geneva, CH)](https://www.unige.ch/sciences/astro/variability/people/laurent-eyer)
 - Alberto Rebassa-Mansergas (UPC, ES)
-- Alba Aller (Virtual observatory, ES)
+- [Alba Aller (Virtual observatory, ES)](https://cab.inta-csic.es/personal/alba-aller-egea/)
 
 Please direct any questions to erasmus.plus (at) iac.es
 

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the homepage of the 2022 ERASMUS+ School on "Eclipsing binaries and asteroseismology: Precise fundamental stellar parameters in the golden age of time-domain astronomy"
 
 You can use the [editor on GitHub](https://github.com/IACERASMUS/2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

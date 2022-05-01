@@ -1,0 +1,1 @@
+gem "jekyll-jupyter-notebook"

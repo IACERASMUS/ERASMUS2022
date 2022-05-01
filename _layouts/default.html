@@ -34,7 +34,7 @@
         {% for item in sorted %}
           {% if item.title and item.rank %}
             <li>
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+              <a href="{{ site.url | append: item.url | replace:'.md','.html' }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
             </li>
           {% endif %}

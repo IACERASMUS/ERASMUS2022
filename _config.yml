@@ -3,9 +3,3 @@ logo: /assets/img/erasmus.png
 title: Eclipsing Binaries and Asteroseismology
 description: Precise fundamental stellar parameters in the golden age of time-domain astronomy
 show_downloads: true
-
-plugins:
-  - jekyll-jupyter-notebook
-
-whitelist:
-  - jekyll-jupyter-notebook

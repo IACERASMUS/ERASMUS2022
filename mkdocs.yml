@@ -2,7 +2,7 @@ site_name: ERASMUS2022 Eclipsing binaries and asteroseismology
 nav:
     - Home: index.md
     - 'Binaries':
-      - test: notebooks/Dave/test.ipynb
+        - test: notebooks/Dave/test.ipynb
 
 
 theme:

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: "Schedule"
-permalink: /schedule/
-rank: 2
+rank: 3
 ---
 # Schedule
 

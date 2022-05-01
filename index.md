@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Home"
+permalink: /index/
+---
 # [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) * Deadline June 15th 2022 *
 ### September 26-30 2022 at the Centre for Astrophysics on La Palma, Cuesta de San José, La Palma, Spain
 

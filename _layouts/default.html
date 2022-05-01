@@ -39,7 +39,7 @@
         {% endif %}
         {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
-          {% if item.path != "index.md" and item.title and item.rank %}
+          {% if item.title and item.rank %}
             <li>
               <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
@@ -52,12 +52,12 @@
       {{ content }}
 
       </section>
-      <footer>
+      <!-- <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+      </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

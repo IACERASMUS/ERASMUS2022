@@ -3,10 +3,6 @@ nav:
     - Home: index.md
     - 'La Palma': lapalma.md
     - 'Schedule':  schedule.md
-    - 'Asteroseismology':
-      - seismo1: notebooks/Cole/notebook1.ipynb
-    - 'Binaries':
-      - binary1: notebooks/Dave/notebook1.ipynb
 
 
 theme:

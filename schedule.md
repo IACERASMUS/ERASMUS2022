@@ -7,7 +7,7 @@ rank: 3
 
 ## Monday
 
-* [Test notebook](notebooks_pages/test.ipynb/)
+* [Test notebook](notebook_pages/test.ipynb/)
 
 ## Tuesday
 

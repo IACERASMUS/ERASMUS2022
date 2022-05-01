@@ -1,8 +1,8 @@
 site_name: ERASMUS2022 Eclipsing binaries and asteroseismology
 nav:
     - Home: index.md
-    - 'La Palma': lapalma.md
-    - 'Schedule':  schedule.md
+    - La Palma: lapalma.md
+    - Schedule:  schedule.md
 
 
 theme:

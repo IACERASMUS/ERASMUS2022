@@ -3,6 +3,8 @@ nav:
     - Home: index.md
     - La Palma: lapalma.md
     - Schedule:  schedule.md
+    - 'Binaries':
+      - test: notebooks/Dave/test.ipynb
 
 
 theme:

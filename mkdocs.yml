@@ -4,9 +4,9 @@ nav:
     - 'La Palma': lapalma.md
     - 'Schedule':  schedule.md
     - 'Asteroseismology':
-      - 'Exercise 1': notebooks/Cole/notebook1.ipynb
+      - seismo1: notebooks/Cole/notebook1.ipynb
     - 'Binaries':
-      - 'Exercise 1': notebooks/Dave/notebook1.ipynb
+      - binary1: notebooks/Dave/notebook1.ipynb
 
 
 theme:

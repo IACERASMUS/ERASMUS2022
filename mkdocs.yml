@@ -1,0 +1,26 @@
+site_name: ERASMUS2022 Eclipsing binaries and asteroseismology
+nav:
+    - Home: index.md
+    - 'La Palma': lapalma.md
+    - 'Schedule':  schedule.md
+    - 'Asteroseismology':
+      - 'Exercise 1': notebooks/Cole/notebook1.ipynb
+    - 'Binaries':
+      - 'Exercise 1': notebooks/Dave/notebook1.ipynb
+
+
+theme:
+  name: "material"
+repo_url: https://github.com/IACERASMUS/ERASMUS2022
+plugins:
+  - search
+  - mkdocs-jupyter
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          selection:
+            docstring_style: "numpy"
+          rendering:
+            show_source: false
+      custom_templates: templates

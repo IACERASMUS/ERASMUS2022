@@ -5,7 +5,7 @@ rank: 2
 ---
 # La Palma
 
-##School location
+## School location
 
 The school will be held at the Instituto de Astrofísica de Canarias' offices on La Palma, known as the Center for Astrophysics on La Palma or CALP.  The CALP is in the small village of San Antonio on the eastern side of the island, approximately 10 minutes from the airport and from the island's capital, Santa Cruz de La Palma.  A free bus will operate to take attendees from the popular resort town of Los Cancajos to and from the CALP during the school.
 

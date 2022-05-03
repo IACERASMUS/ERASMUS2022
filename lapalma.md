@@ -5,6 +5,8 @@ rank: 2
 ---
 # La Palma
 
+La Palma is the northwesternmost island of the Canarian archiepelago and home to the World's largest optical-infrared telescope - the Gran Telescopio Canarias or GTC.  The highest point on the island, the Roque de los Muchachos observatory (operated by the Instituto de Astrofísica de Canarias), enjoys exceptional observing conditions and is host to a number of other important international astronomical facilities.
+
 ## School location
 
 The school will be held at the Instituto de Astrofísica de Canarias' offices on La Palma, known as the Center for Astrophysics on La Palma or CALP.  The CALP is in the small village of San Antonio on the eastern side of the island, approximately 10 minutes from the airport and from the island's capital, Santa Cruz de La Palma.  A free bus will operate to take attendees from the popular resort town of Los Cancajos to and from the CALP during the school.
@@ -15,7 +17,7 @@ La Palma is a popular tourist destination, offering numerous accommodation optio
 
 ## Travel
 
-La Palma is the northwesternmost island of the Canarian archiepelago.  Daily direct flights from the Spanish capital, Madrid, run with Iberia.  There are roughly weekly connections is several other major [European cities](https://www.aena.es/en/la-palma/airlines-and-destinations/airport-destinations.html), including London, Berlin, Munich, Brussels, Amsterdam and Zurich.
+Daily direct flights from the Spanish capital, Madrid, run with Iberia.  There are roughly weekly connections is several other major [European cities](https://www.aena.es/en/la-palma/airlines-and-destinations/airport-destinations.html), including London, Berlin, Munich, Brussels, Amsterdam and Zurich.
 
 ## Weather
 

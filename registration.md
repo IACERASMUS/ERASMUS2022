@@ -13,6 +13,10 @@ Those requesting in-person attendance will be informed whether they have been ac
 
 ## [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) * Deadline for consideration for in-person attendance June 15th 2022 *
 
+## Requirements
+
+The school will include both traditional lectures and more hands-on tutorials.  These tutorials will primarily be delivered in the form of jupyter notebooks, as such attendees should have access to a linux/mac computer with a working installation of python3+.  Jupyter will be useful, but the commands can be copy-pasted into a python prompt.  Participants will be informed of the required packages before the school, but it is safe to assume that they will include: astropy, matplotlib, numpy, phoebe, scipy, and their dependencies.
+
 ## Lunches and excursion
 
 Lunches for the duration of the school will also be provided free for the in-person attendees.

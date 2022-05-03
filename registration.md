@@ -9,6 +9,8 @@ Registration is free.
 
 The school will operate in a hybrid format with in-person participation capped at approximately 10 people.  When registering please state your preference for in-person or remote (via zoom) attendance.  We also request a brief statement highlighting your motivation for joining the school in case of over-subscription for in-person participation.
 
+Those requesting in-person attendance will be informed whether they have been accepted within two weeks of the deadline.
+
 ## [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) * Deadline for consideration for in-person attendance June 15th 2022 *
 
 ## Lunches and excursion

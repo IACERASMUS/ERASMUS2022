@@ -5,13 +5,15 @@ rank: 2
 ---
 # La Palma
 
-La Palma is the northwesternmost island of the Canarian archiepelago and home to the World's largest optical-infrared telescope - the Gran Telescopio Canarias or GTC.  The highest point on the island, the Roque de los Muchachos observatory (operated by the Instituto de Astrofísica de Canarias), enjoys exceptional observing conditions and is host to a number of other important international astronomical facilities.
-
 ![Map of the Canary Islands](assets/img/canarias.jpg)
+
+La Palma, often referred to as "La Isla Bonita" (the beautiful island in Spanish) is the northwesternmost island of the Canarian archiepelago.  The highest point on the island, the Roque de los Muchachos observatory (operated by the Instituto de Astrofísica de Canarias), enjoys exceptional observing conditions and is host to a number of important international astronomical facilities, including the World's largest optical-infrared telesocope - the 10.4m Gran Telescopio Canarias.
+
+![Gran Telescopio Canarias](assets/img/GTC.jpg)
 
 ## School location
 
-The school will be held at the Instituto de Astrofísica de Canarias' offices on La Palma, known as the Center for Astrophysics on La Palma or CALP.  The CALP is in the small village of San Antonio on the eastern side of the island, approximately 10 minutes from the airport and from the island's capital, Santa Cruz de La Palma.  A free bus will operate to take attendees from the popular resort town of Los Cancajos to and from the CALP during the school.
+The school will be held at the Instituto de Astrofísica de Canarias' offices on La Palma, known as the Center for Astrophysics on La Palma or [CALP](https://www.iac.es/en/observatorios-de-canarias/center-astrophysics-la-palma).  The CALP is in the village of San Antonio on the eastern side of the island, approximately 10 minutes from the airport and from the island's capital, Santa Cruz de La Palma.  A free bus will operate to take attendees from the popular resort town of Los Cancajos to and from the CALP during the school.
 
 ## Accommodation
 

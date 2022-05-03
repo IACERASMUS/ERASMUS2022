@@ -20,5 +20,6 @@ Confirmed lecturers:
 - [Laurent Eyer (Geneva, CH)](https://www.unige.ch/sciences/astro/variability/people/laurent-eyer)
 - Alberto Rebassa-Mansergas (UPC, ES)
 - [Alba Aller (Virtual observatory, ES)](https://cab.inta-csic.es/personal/alba-aller-egea/)
+- Hugo Tabernero (Centro de Astrobiología, ES)
 
 Please direct any questions to erasmus.plus (at) iac.es

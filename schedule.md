@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Schedule"
-rank: 3
+rank: 4
 ---
 # Schedule
 

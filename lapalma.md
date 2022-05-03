@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "La Palma"
-rank: 2
+rank: 3
 ---
 # La Palma
 
@@ -17,11 +17,13 @@ The school will be held at the Instituto de Astrofísica de Canarias' offices on
 
 ## Accommodation
 
-La Palma is a popular tourist destination, offering numerous accommodation options including hotels, aparthotels and airbnbs.  The accommodation options in San Antonio (where the school will be held), so attendees are encouraged to search for accommodation in Los Cancajos (from which there will be a free bus to take attendees to and from the school) or Santa Cruz de La Palma (the island's capital, a ten-minute public bus ride from San Antonio and a few minute bus ride from Los Cancajos).
+La Palma is a popular tourist destination, offering numerous accommodation options including hotels, aparthotels and airbnbs.  The accommodation options in San Antonio (where the school will be held) are extremely limited, so attendees are encouraged to search for accommodation in Los Cancajos (from which there will be a free bus to take attendees to and from the school) or Santa Cruz de La Palma (the island's capital, a ten-minute public bus ride from San Antonio and a few minute bus ride from Los Cancajos).
 
 ## Travel
 
 Daily direct flights from the Spanish capital, Madrid, run with Iberia.  There are roughly weekly connections is several other major [European cities](https://www.aena.es/en/la-palma/airlines-and-destinations/airport-destinations.html), including London, Berlin, Munich, Brussels, Amsterdam and Zurich.
+
+Spain is part of the [Schengen zone](https://ec.europa.eu/home-affairs/schengen-borders-and-visa/schengen-visa_en) and thus no visa is required for EU-Schengen passport holders. Please note that **NO** local support for visa applications from other nationals is available.  In-person attendees from the EU are able to obtain emergency healthcare through the [European Health Insurance Card](https://ec.europa.eu/social/main.jsp?catId=559). In-person participants from outside the EU are strongly encouraged to take out travel insurance.
 
 ## Weather
 

@@ -7,7 +7,7 @@ rank: 2
 
 La Palma is the northwesternmost island of the Canarian archiepelago and home to the World's largest optical-infrared telescope - the Gran Telescopio Canarias or GTC.  The highest point on the island, the Roque de los Muchachos observatory (operated by the Instituto de Astrofísica de Canarias), enjoys exceptional observing conditions and is host to a number of other important international astronomical facilities.
 
-![Map of the Canary Islands]({{ site.baseurl | append: assets/img/canarias.jpg)
+![Map of the Canary Islands](assets/img/canarias.jpg)
 
 ## School location
 

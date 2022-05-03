@@ -16,3 +16,5 @@ The school will operate in a hybrid format with in-person participation capped a
 Lunches for the duration of the school will also be provided free for the in-person attendees.
 
 An excursion to the Roque de los Muchachos Observatory will be organised for one afternoon of the school and will be free for all in-person attendees.
+
+## No financial support for travel or accommodation is available

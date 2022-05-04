@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Schedule"
+title: "Programme"
 rank: 4
 ---
-# Schedule TBD
+# Programme TBC
 
 ##Topics covered
 

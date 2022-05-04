@@ -8,12 +8,15 @@ rank: 4
 ##Topics covered
 
 ### Binaries
-* Julia Bodensteiner
 * Henri Boffin
 * David Jones
 
 ### Asteroseismology
 * Cole Johnston
+
+### Instrumentation and techniques
+* Julia Bodensteiner
+* Henri Boffin
 
 ### Surveys
 * Laurent Eyer

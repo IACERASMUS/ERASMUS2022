@@ -5,7 +5,7 @@ rank: 4
 ---
 # Programme TBC
 
-##Topics covered
+## Topics covered
 
 ### Binaries
 * Henri Boffin
@@ -13,6 +13,7 @@ rank: 4
 
 ### Asteroseismology
 * Cole Johnston
+* Savita Mathur
 
 ### Instrumentation and techniques
 * Julia Bodensteiner

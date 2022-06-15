@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 rank: 1
 ---
-# [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) * Deadline for consideration for in-person attendance June 15th 2022 *
+# [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) * The deadline for in-person registration has now passed. Zoom registration continues to be open *
 ### September 26-30 2022 at the Centre for Astrophysics on La Palma, Cuesta de San José, La Palma, Spain
 
 With numerous active or recently completed public, space-based missions and ground-based follow-up surveys, never before has such a wealth of high-quality and homogeneous multi-epoch photometry and spectroscopy been available -- making this truly the golden age of time-domain astronomy.  These data offer the opportunity to derive fundamental stellar parameters with a precision that was previously impossible.  In particular, time-resolved light and radial velocity curves of eclipsing binary stars are critical tools with which to derive model-independent masses and radii, while asteroseismology of pulsating stars can be used derive their hitherto hidden internal structure.

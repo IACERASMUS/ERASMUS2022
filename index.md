@@ -10,7 +10,7 @@ With numerous active or recently completed public, space-based missions and grou
 
 In this school, we will outline the fundamentals of the determination of stellar parameters, as well as providing an introduction to both the publicly available data and the cutting-edge tools and software used in their exploitation.  The school itself will be divided into more traditional lectures and hands-on sessions/tutorials demonstrating, for example, the access to survey data and its modelling with state-of-the-art tools.
 
-The school will operate in a hybrid format. In-person attendance is limited to approximately 20 students, while a further 50 participants will join via zoom.  Support for remote attendees will be provided via a dedicated slack channel.
+The school will operate in a hybrid format. In-person attendance is limited to approximately 15 students, while a further 50 participants will join via zoom.  Support for remote attendees will be provided via a dedicated slack channel.
 
 Confirmed lecturers:
 

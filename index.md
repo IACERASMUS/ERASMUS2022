@@ -25,7 +25,8 @@ Confirmed lecturers:
 
 Please direct any questions to erasmus.plus (at) iac.es
 
-This school is financed by the European Union through the ERASMUS+ Strategic Partnership "European Collaborating Astronomers Project: España-Czechia-Slovakia" (2020-1-CZ01-KA203-078200). Financial support for the lecturers was also provided by the Spanish Ministry of Science and Innovation (MICINN) through the Spanish State Research Agency, under Severo Ochoa Centres of Excellence Programme 2020-2023 (CEX2019-000920-S)
+This school is financed by the European Union through the ERASMUS+ Strategic Partnership "European Collaborating Astronomers Project: España-Czechia-Slovakia" (2020-1-CZ01-KA203-078200). Financial support for the lecturers was also provided by the Spanish Ministry of Science and Innovation (MICINN) through the Spanish State Research Agency, under Severo Ochoa Centres of Excellence Programme 2020-2023 (CEX2019-000920-S), and by the Fundación Jesús Serra and the Instituto de Astrofísica de Canarias under the Visiting Researcher Programme 2020-2022 agreed between both institutions.
+
 
 ![Severo Ochoa](assets/img/severo_ochoa.png)
 ![Fundación Jesús Serra](assets/img/fund_jesus_serra.png)

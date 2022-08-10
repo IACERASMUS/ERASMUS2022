@@ -14,11 +14,12 @@ The school will operate in a hybrid format. In-person attendance is limited to a
 Confirmed lecturers:
 
 - [David Jones (IAC, ES)](http://www.drdjones.net/)
+- [Julia Bodensteiner (ESO, DE)](https://www.juliabodensteiner.com/)
 - [Henri M.J. Boffin (ESO, DE)](https://www.eso.org/~hboffin/)
 - [Cole Johnston (Radboud, NL)](https://stellarshenanigans.com/)
-- [Julia Bodensteiner (ESO, DE)](https://www.juliabodensteiner.com/)
 - [Alba Aller (Virtual observatory, ES)](https://cab.inta-csic.es/personal/alba-aller-egea/)
 - [Laurent Eyer (Geneva, CH)](https://www.unige.ch/sciences/astro/variability/people/laurent-eyer)
+- [Tereza Jerabkova (ESO, DE)](https://sites.google.com/view/tereza-jerabkova/home)
 - Savita Mathur (IAC, ES)
 - Alberto Rebassa-Mansergas (UPC, ES)
 - Hugo Tabernero (Centro de Astrobiología, ES)

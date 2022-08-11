@@ -18,6 +18,7 @@ Confirmed lecturers:
 - [Henri M.J. Boffin (ESO, DE)](https://www.eso.org/~hboffin/)
 - [Cole Johnston (Radboud, NL)](https://stellarshenanigans.com/)
 - [Alba Aller (Virtual observatory, ES)](https://cab.inta-csic.es/personal/alba-aller-egea/)
+- [Sarah Casewell (University of Leicester, UK)](https://le.ac.uk/people/sarah-casewell)
 - [Laurent Eyer (Geneva, CH)](https://www.unige.ch/sciences/astro/variability/people/laurent-eyer)
 - [Tereza Jerabkova (ESO, DE)](https://sites.google.com/view/tereza-jerabkova/home)
 - Savita Mathur (IAC, ES)

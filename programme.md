@@ -18,8 +18,10 @@ rank: 4
 ### Instrumentation and techniques
 * Julia Bodensteiner
 * Henri Boffin
+* Tereza Jerabkova
 
 ### Surveys
+* Sarah Casewell
 * Laurent Eyer
 * Alberto Rebassa-Mansergas
 
@@ -28,6 +30,10 @@ rank: 4
 
 ### Stellar parameters from spectroscopy
 * Hugo Tabernero
+
+### Publishing practices
+* Henri Boffin
+* Paul Woods
 
 <!-- ## Monday
 

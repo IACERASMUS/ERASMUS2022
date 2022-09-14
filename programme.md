@@ -19,7 +19,7 @@ rank: 4
 
 * [Stellar parameters from spectroscopy - Hugo Tabernero (CAB)](ComingSoon.md)
 
-* [Virtual Observatory - Alba Aller (CAB)](ComingSoon.md)
+* Virtual Observatory - Alba Aller (CAB)
   * [Lecture](ComingSoon.md)
   * [Tutorial](pdfs/vosa.pdf)
 
@@ -39,7 +39,7 @@ rank: 4
 
 * [Asteroseismology - Cole Johnston (RU)](ComingSoon.md)
 
-* [MUSE - Julia Bodensteiner (ESO)](ComingSoon.md)
+* MUSE - Julia Bodensteiner (ESO)
   * [Lecture](ComingSoon.md)
   * [Tutorial](ComingSoon.md)
 

@@ -8,6 +8,9 @@ from astropy.timeseries import LombScargle
 %matplotlib inline
 ```
 
+First we need to download the data that we will search for periodicities:
+[lc.data](https://iacerasmus.github.io/ERASMUS2022/data/lc.data)
+
 Read-in the data and plot
 
 
@@ -27,7 +30,7 @@ plt.ylabel('flux')
 
 
     
-![png](Period_analysis_files/Period_analysis_3_1.png)
+![png](Period_analysis_files/Period_analysis_4_1.png)
     
 
 
@@ -53,7 +56,7 @@ plt.xlabel("Freq")
 
 
     
-![png](Period_analysis_files/Period_analysis_5_1.png)
+![png](Period_analysis_files/Period_analysis_6_1.png)
     
 
 
@@ -77,7 +80,7 @@ plt.xlim([0,5])
 
 
     
-![png](Period_analysis_files/Period_analysis_7_1.png)
+![png](Period_analysis_files/Period_analysis_8_1.png)
     
 
 
@@ -103,7 +106,7 @@ plt.xlim([0,5])
 
 
     
-![png](Period_analysis_files/Period_analysis_9_1.png)
+![png](Period_analysis_files/Period_analysis_10_1.png)
     
 
 
@@ -127,7 +130,7 @@ plt.ylabel("Flux")
 
 
     
-![png](Period_analysis_files/Period_analysis_11_1.png)
+![png](Period_analysis_files/Period_analysis_12_1.png)
     
 
 
@@ -152,7 +155,7 @@ plt.ylabel("Flux")
 
 
     
-![png](Period_analysis_files/Period_analysis_13_1.png)
+![png](Period_analysis_files/Period_analysis_14_1.png)
     
 
 
@@ -181,7 +184,7 @@ plt.ylim([0,0.2])
 
 
     
-![png](Period_analysis_files/Period_analysis_16_1.png)
+![png](Period_analysis_files/Period_analysis_17_1.png)
     
 
 

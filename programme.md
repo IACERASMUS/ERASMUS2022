@@ -31,7 +31,7 @@ rank: 4
 
 * Binaries - David Jones (IAC)
   * [Lecture](ComingSoon.md)
-  * [Tutorial](ComingSoon.md)
+  * [Tutorial](Dave.md)
 
 * Afternoon visit to GTC
 

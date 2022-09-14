@@ -7,51 +7,51 @@ rank: 4
 
 ## Monday
 
-* [Binaries - Henri Boffin (ESO)](TBD)
+* [Binaries - Henri Boffin (ESO)](ComingSoon.md)
 
-* [Asteroseismology - Savita Mathur (IAC)](TBD)
+* [Asteroseismology - Savita Mathur (IAC)](ComingSoon.md)
 
-* [Gaia - Laurent Eyer (UNIGE)](TBD)
+* [Gaia - Laurent Eyer (UNIGE)](ComingSoon.md)
 
-* [Photometric Surveys - Sarah Casewell (Leicester)](TBD)
+* [Photometric Surveys - Sarah Casewell (Leicester)](ComingSoon.md)
 
 ## Tuesday
 
-* [Stellar parameters from spectroscopy - Hugo Tabernero (CAB)](TBD)
+* [Stellar parameters from spectroscopy - Hugo Tabernero (CAB)](ComingSoon.md)
 
-* [Virtual Observatory - Alba Aller (CAB)](TBD)
-  * [Lecture](TBD)
+* [Virtual Observatory - Alba Aller (CAB)](ComingSoon.md)
+  * [Lecture](ComingSoon.md)
   * [Tutorial](pdfs/vosa.pdf)
 
-* [Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)](TBD)
+* [Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)](ComingSoon.md)
 
-* [Interferometry - Henri Boffin (ESO)](TBD)
+* [Interferometry - Henri Boffin (ESO)](ComingSoon.md)
 
 ## Wednesday
 
 * Binaries - David Jones (IAC)
-  * [Lecture](TBD)
-  * [Tutorial](TBD)
+  * [Lecture](ComingSoon.md)
+  * [Tutorial](ComingSoon.md)
 
 * Afternoon visit to GTC
 
 ## Thursday
 
-* [Asteroseismology - Cole Johnston (RU)](TBD)
+* [Asteroseismology - Cole Johnston (RU)](ComingSoon.md)
 
-* [MUSE - Julia Bodensteiner (ESO)](TBD)
-  * [Lecture](TBD)
-  * [Tutorial](TBD)
+* [MUSE - Julia Bodensteiner (ESO)](ComingSoon.md)
+  * [Lecture](ComingSoon.md)
+  * [Tutorial](ComingSoon.md)
 
 ## Friday
 
-* [Scientific Publishing - Paul Woods (Nature)](TBD)
+* [Scientific Publishing - Paul Woods (Nature)](ComingSoon.md)
 
-* [Tidal Asteroseismology - Cole Johnston (RU)](TBD)
+* [Tidal Asteroseismology - Cole Johnston (RU)](ComingSoon.md)
 
-* [Applying for Observing Time - Tereza Jerabkova (ESO)](TBD)
+* [Applying for Observing Time - Tereza Jerabkova (ESO)](ComingSoon.md)
 
-* [Communicating your results - Henri Boffin (ESO)](TBD)
+* [Communicating your results - Henri Boffin (ESO)](ComingSoon.md)
 
 <!-- *
 

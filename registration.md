@@ -20,14 +20,14 @@ Those requesting in-person attendance will be informed whether they have been ac
 The school will include both traditional lectures and more hands-on tutorials.  These tutorials will primarily be delivered in the form of jupyter notebooks, as such Jupyter will be useful but the commands can be copy-pasted into a python3+ prompt. Full requirements list:
 
 * Python3+ with the following packages:
- * numpy
- * scipy
- * astropy
- * matplotlib
- * pandas
- * lmfit
- * photutils
- * phoebe
+   * numpy
+   * scipy
+   * astropy
+   * matplotlib
+   * pandas
+   * lmfit
+   * photutils
+   * phoebe
 
 * [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/)
 

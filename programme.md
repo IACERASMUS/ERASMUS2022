@@ -30,7 +30,7 @@ rank: 4
 ## Wednesday
 
 * Binaries - David Jones (IAC)
-  * [Lecture](ComingSoon.md)
+  * [Lecture](pdfs/Binaries_Jones.pdf)
   * [Tutorial](Dave.md)
 
 * Afternoon visit to GTC

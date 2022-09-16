@@ -37,6 +37,10 @@ The school will include both traditional lectures and more hands-on tutorials.  
 
 * [Period04](http://period04.net/)
 
+* [ASPRO2](https://www.jmmc.fr/english/tools/proposal-preparation/aspro/)
+
+* [LITPRO](https://www.jmmc.fr/english/tools/data-analysis/litpro/)
+
 * At least 5Gb of free disk space
 
 

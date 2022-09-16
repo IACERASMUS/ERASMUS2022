@@ -26,6 +26,8 @@ rank: 4
 * [Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)](ComingSoon.md)
 
 * [Interferometry - Henri Boffin (ESO)](ComingSoon.md)
+  * [Lecture](ComingSoon.md)
+  * [Tutorial](Interferometry.md)
 
 ## Wednesday
 

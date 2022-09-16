@@ -9,7 +9,7 @@ rank: 2
 
 Registration is free.
 
-The school will operate in a hybrid format with in-person participation capped at 15 attendees.  When registering please state your preference for in-person or remote (via zoom) attendance. Attendees selected for in-person attendance have now been informed, all other registrants are automatically accepted for remote attendance 
+The school will operate in a hybrid format with in-person participation capped at 15 attendees.  When registering please state your preference for in-person or remote (via zoom) attendance. Attendees selected for in-person attendance have now been informed, all other registrants are automatically accepted for remote attendance
 
 <!-- ## [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScaVcu1drZViepYn_UZ1cHutmKqg0OJNNnxt_yAsP8-JnXuLg/viewform) * In-person registration has now closed.  Zoom registration will continue to be open until nearer the school * -->
 
@@ -26,6 +26,12 @@ The school will include both traditional lectures and more hands-on tutorials.  
    * lmfit
    * photutils
    * phoebe
+   * pymc3
+   * pymc3_ext
+   * theano
+   * exoplanet
+   * lightkurve
+   * progress
 
 * [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/)
 

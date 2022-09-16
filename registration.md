@@ -35,6 +35,8 @@ The school will include both traditional lectures and more hands-on tutorials.  
 
 * [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/)
 
+* [Period04](http://period04.net/)
+
 * At least 5Gb of free disk space
 
 

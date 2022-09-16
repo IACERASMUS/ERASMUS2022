@@ -22,7 +22,7 @@ b
 
 
 
-    <PHOEBE Bundle: 141 parameters | contexts: component, system, constraint, setting, figure, compute>
+    <PHOEBE Bundle: 141 parameters | contexts: component, system, figure, compute, setting, constraint>
 
 
 
@@ -102,7 +102,7 @@ b.add_dataset('lc', times=phoebe.linspace(0, 1, 51)*u.d, dataset='lc01',passband
 
 
 
-    <ParameterSet: 80 parameters | contexts: constraint, figure, compute, dataset>
+    <ParameterSet: 80 parameters | contexts: figure, dataset, constraint, compute>
 
 
 
@@ -112,7 +112,7 @@ b.run_compute()
 b.plot(show=True)
 ```
 
-    100%|██████████| 51/51 [00:01<00:00, 45.28it/s]
+    100%|██████████| 51/51 [00:01<00:00, 48.51it/s]
 
 
 
@@ -139,7 +139,7 @@ b.add_dataset('mesh', compute_times=[0,0.25], dataset='mesh01')
 
 
 
-    <ParameterSet: 85 parameters | contexts: constraint, figure, compute, dataset>
+    <ParameterSet: 85 parameters | contexts: figure, dataset, constraint, compute>
 
 
 
@@ -148,8 +148,8 @@ b.add_dataset('mesh', compute_times=[0,0.25], dataset='mesh01')
 b.run_compute()
 ```
 
-    Tue, 13 Sep 2022 13:00 BUNDLE       WARNING overwriting model: latest
-    100%|██████████| 52/52 [00:01<00:00, 44.71it/s]
+    Fri, 16 Sep 2022 14:28 BUNDLE       WARNING overwriting model: latest
+    100%|██████████| 52/52 [00:01<00:00, 43.64it/s]
 
 
 
@@ -206,8 +206,8 @@ b.run_compute()
 b['mesh02@model'].plot(fc='intensities@lc01', ec='None',fcmap=cm.autumn,show=True)
 ```
 
-    Tue, 13 Sep 2022 13:01 BUNDLE       WARNING overwriting model: latest
-    100%|██████████| 52/52 [00:01<00:00, 47.89it/s]
+    Fri, 16 Sep 2022 14:28 BUNDLE       WARNING overwriting model: latest
+    100%|██████████| 52/52 [00:01<00:00, 46.57it/s]
 
 
 
@@ -223,6 +223,105 @@ b['mesh02@model'].plot(fc='intensities@lc01', ec='None',fcmap=cm.autumn,show=Tru
      <Figure size 576x432 with 1 Axes>)
 
 
+
+If we have time, you might want to play around with changing the parameters of the stars and/or orbit, in order to see what effect those changes have on the light curve. There are plenty to choose from!
+
+
+```python
+print(b['component'])
+```
+
+    ParameterSet: 62 parameters
+             requiv@primary@component: 1.0 solRad
+    C    requiv_max@primary@component: 2.013275176537638 solRad
+               teff@primary@component: 6000.0 K
+               abun@primary@component: 0.0
+    C          logg@primary@component: 4.437551877570185
+            syncpar@primary@component: 1.0
+    C        period@primary@component: 1.0 d
+    C          freq@primary@component: 6.283185 rad / d
+              pitch@primary@component: 0.0 deg
+                yaw@primary@component: 0.0 deg
+    C          incl@primary@component: 90.0 deg
+    C       long_an@primary@component: 0.0 deg
+          gravb_bol@primary@component: 0.32
+       irrad_frac_refl_bol@primary...: 0.6
+    C  irrad_frac_lost_bol@primary...: 0.4
+        ld_mode_bol@primary@component: lookup
+        ld_func_bol@primary@component: logarithmic
+       ld_coeffs_source_bol@primar...: auto
+    C          mass@primary@component: 0.9988131358058301 solMass
+           requiv@secondary@component: 1.0 solRad
+    C  requiv_max@secondary@component: 2.013275176537638 solRad
+             teff@secondary@component: 6000.0 K
+             abun@secondary@component: 0.0
+    C        logg@secondary@component: 4.437551877570185
+          syncpar@secondary@component: 1.0
+    C      period@secondary@component: 1.0 d
+    C        freq@secondary@component: 6.283185 rad / d
+            pitch@secondary@component: 0.0 deg
+              yaw@secondary@component: 0.0 deg
+    C        incl@secondary@component: 90.0 deg
+    C     long_an@secondary@component: 0.0 deg
+        gravb_bol@secondary@component: 0.32
+       irrad_frac_refl_bol@seconda...: 0.6
+    C  irrad_frac_lost_bol@seconda...: 0.4
+       ld_mode_bol@secondary@compo...: lookup
+       ld_func_bol@secondary@compo...: logarithmic
+       ld_coeffs_source_bol@second...: auto
+    C        mass@secondary@component: 0.9988131358058301 solMass
+              period@binary@component: 1.0 d
+    C           freq@binary@component: 6.283185 rad / d
+                dpdt@binary@component: 0.0 s / yr
+                per0@binary@component: 0.0 deg
+              dperdt@binary@component: 0.0 deg / yr
+                 ecc@binary@component: 0.0
+    C     t0_perpass@binary@component: -0.25 d
+          t0_supconj@binary@component: 0.0 d
+    C         t0_ref@binary@component: 0.0 d
+    C      mean_anom@binary@component: 89.99999559997653 deg
+                incl@binary@component: 90.0 deg
+                   q@binary@component: 1.0
+                 sma@binary@component: 5.3 solRad
+             long_an@binary@component: 0.0 deg
+    C          asini@binary@component: 5.3 solRad
+    C          ecosw@binary@component: 0.0
+    C          esinw@binary@component: 0.0
+    C      teffratio@binary@component: 1.0
+    C    requivratio@binary@component: 1.0
+    C  requivsumfrac@binary@component: 0.37735849056603776
+    C           sma@primary@component: 2.65 solRad
+    C         asini@primary@component: 2.65 solRad
+    C         sma@secondary@component: 2.65 solRad
+    C       asini@secondary@component: 2.65 solRad
+
+
+
+```python
+b['period@binary']=0.6*u.d
+b.run_compute()
+b['lc01@model'].plot(show=True)
+```
+
+    Fri, 16 Sep 2022 14:28 BUNDLE       WARNING overwriting model: latest
+    100%|██████████| 52/52 [00:00<00:00, 57.61it/s]
+
+
+
+    
+![png](PHOEBE_basics_files/PHOEBE_basics_25_1.png)
+    
+
+
+
+
+
+    (<autofig.figure.Figure | 1 axes | 1 call(s)>,
+     <Figure size 576x432 with 1 Axes>)
+
+
+
+You will often run into issues with parameters going out of acceptable ranges. Also, remember that we are sampling the model light curve only at the time we defined earlier when adding the lc dataset - this can lead to artefacts in the plotted curve!
 
 
 ```python

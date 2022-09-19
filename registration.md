@@ -32,6 +32,7 @@ The school will include both traditional lectures and more hands-on tutorials.  
    * exoplanet
    * lightkurve
    * progress
+   * [pythia](https://github.com/colej/pythia)
 
 * [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/)
 
@@ -42,6 +43,8 @@ The school will include both traditional lectures and more hands-on tutorials.  
 * [LITPRO](https://www.jmmc.fr/english/tools/data-analysis/litpro/)
 
 * At least 5Gb of free disk space
+
+A conda environment with all the required python packages is available [here](data/pythia.yml)
 
 
 ## Lunches and excursion

@@ -1,0 +1,29 @@
+name: pythia
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.9
+  - arviz
+  - pymc3
+  - numpy
+  - jupyter
+  - exoplanet
+  - corner
+  - progress
+  - lightkurve
+  - gpytorch
+  - torchvision
+  - cpuonly
+  - pytorch
+  - torchaudio
+  - seaborn
+  - emcee
+  - shapely
+  - descartes
+  - python-socketio=4.6.1
+  - sympy
+  - gatspy
+  - supersmoother
+  - astroml
+prefix: /PATH/TO/WHERE/YOU/STORE/CONDA/envs/

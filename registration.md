@@ -44,7 +44,7 @@ The school will include both traditional lectures and more hands-on tutorials.  
 
 * At least 5Gb of free disk space
 
-A conda environment with all the required python packages is available [here](data/pythia.yml)
+[//]: # A conda environment with all the required python packages is available [here](data/pythia.yml)
 
 
 ## Lunches and excursion

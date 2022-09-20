@@ -5,6 +5,8 @@ rank: 4
 ---
 # Programme
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=ZGF2aWRqb25lcy5wbmVAZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dGVpZXVpc2JnbnNxYzYwY2JscDViYXMxYzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%234285F4&color=%2333B679&color=%23616161" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Monday
 
 * [Binaries - Henri Boffin (ESO)](ComingSoon.md)

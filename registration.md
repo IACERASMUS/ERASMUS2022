@@ -44,6 +44,8 @@ The school will include both traditional lectures and more hands-on tutorials.  
 
 * At least 5Gb of free disk space
 
+* You should also [register](http://svo2.cab.inta-csic.es/theory/user2/register.php) for an account with [VOSA](http://svo2.cab.inta-csic.es/theory/vosa/) if you do not already have one.
+
 [//]: # A conda environment with all the required python packages is available [here](data/pythia.yml)
 
 

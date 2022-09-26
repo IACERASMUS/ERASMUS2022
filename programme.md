@@ -16,15 +16,15 @@ rank: 4
 
 * Asteroseismology - Savita Mathur (IAC)
   * [Video](https://www.youtube.com/watch?v=BWbtQ_SwLUQ)
-  * [PDF](ComingSoon.md)
+  * [PDF](pdfs/Mathur.pdf)
 
 * Gaia - Laurent Eyer (UNIGE)
   * [Video](https://www.youtube.com/watch?v=Zh5uZLKs8iE)
   * [PDF](ComingSoon.md)
 
 * Photometric Surveys - Sarah Casewell (Leicester)
-  * [Video](ComingSoon.md)
-  * [PDF](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=Bur1eN5eFXM)
+  * [PDF](pdfs/Casewell.pdf)
 
 ## Tuesday
 

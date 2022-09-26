@@ -19,7 +19,7 @@ rank: 4
   * [PDF](ComingSoon.md)
 
 * Gaia - Laurent Eyer (UNIGE)
-  * [Video](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=Zh5uZLKs8iE)
   * [PDF](ComingSoon.md)
 
 * Photometric Surveys - Sarah Casewell (Leicester)

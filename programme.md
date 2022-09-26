@@ -14,15 +14,15 @@ rank: 4
   * [Video](https://www.youtube.com/watch?v=skrXAe9uyoM)
   * [PDF](pdfs/Binaries_Boffin.pdf)
 
-* [Asteroseismology - Savita Mathur (IAC)]
+* Asteroseismology - Savita Mathur (IAC)
   * [Video](https://www.youtube.com/watch?v=BWbtQ_SwLUQ)
   * [PDF](ComingSoon.md)
 
-* [Gaia - Laurent Eyer (UNIGE)]
+* Gaia - Laurent Eyer (UNIGE)
   * [Video](ComingSoon.md)
   * [PDF](ComingSoon.md)
 
-* [Photometric Surveys - Sarah Casewell (Leicester)]
+* Photometric Surveys - Sarah Casewell (Leicester)
   * [Video](ComingSoon.md)
   * [PDF](ComingSoon.md)
 

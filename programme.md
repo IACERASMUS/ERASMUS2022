@@ -10,7 +10,9 @@ rank: 4
 
 ## Monday
 
-* [Binaries - Henri Boffin (ESO)](ComingSoon.md)
+* Binaries - Henri Boffin (ESO)
+  * [Video](ComingSoon.md)
+  * [PDF](pdfs/Binaries_Boffin.pdf)
 
 * [Asteroseismology - Savita Mathur (IAC)](ComingSoon.md)
 

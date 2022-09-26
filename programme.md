@@ -24,7 +24,7 @@ rank: 4
 
 * Virtual Observatory - Alba Aller (CAB)
   * [Lecture](ComingSoon.md)
-  * [Tutorial](ComingSoon.md)
+  * [Tutorial](pdfs/vosa.pdf)
 
 * [Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)](ComingSoon.md)
 

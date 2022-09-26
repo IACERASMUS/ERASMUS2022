@@ -11,14 +11,20 @@ rank: 4
 ## Monday
 
 * Binaries - Henri Boffin (ESO)
-  * [Video](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=skrXAe9uyoM)
   * [PDF](pdfs/Binaries_Boffin.pdf)
 
-* [Asteroseismology - Savita Mathur (IAC)](ComingSoon.md)
+* [Asteroseismology - Savita Mathur (IAC)]
+  * [Video](https://www.youtube.com/watch?v=BWbtQ_SwLUQ)
+  * [PDF](ComingSoon.md)
 
-* [Gaia - Laurent Eyer (UNIGE)](ComingSoon.md)
+* [Gaia - Laurent Eyer (UNIGE)]
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
 
-* [Photometric Surveys - Sarah Casewell (Leicester)](ComingSoon.md)
+* [Photometric Surveys - Sarah Casewell (Leicester)]
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
 
 ## Tuesday
 

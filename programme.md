@@ -33,8 +33,8 @@ rank: 4
   * [PDF](ComingSoon.md)
 
 * Virtual Observatory - Alba Aller (CAB)
-  * Lecture [Video](https://www.youtube.com/watch?v=myfEoiYqpsQ) [pdf](ComingSoon.md)
-  * Tutorial [pdf](pdfs/vosa.pdf)
+  * Lecture [Video](https://www.youtube.com/watch?v=myfEoiYqpsQ) [PDF](ComingSoon.md)
+  * Tutorial [Video](https://www.youtube.com/watch?v=Td5dOL7XmkY) [PDF](pdfs/vosa.pdf)
 
 * Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)
   * [Video](ComingSoon.md)

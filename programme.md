@@ -41,18 +41,19 @@ rank: 4
   * [PDF](ComingSoon.md)
 
 * [Interferometry - Henri Boffin (ESO)](ComingSoon.md)
-  * [Lecture](ComingSoon.md)
-  * [Tutorial](Interferometry.md)
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
+  * [Data for tutorial](Interferometry.md)
 
 ## Wednesday
 
 * Binaries - David Jones (IAC)
-  * [Lecture](pdfs/Binaries_Jones.pdf)
-  * [Tutorial](Dave.md)
+  * Lecture [Video](ComingSoon.md)  [PDF](pdfs/Binaries_Jones.pdf)
+  * Tutorial [Video](ComingSoon.md) [Notebooks](Dave.md)
 
 * MUSE - Julia Bodensteiner (ESO)
-  * [Lecture](ComingSoon.md)
-  * [Tutorial](ComingSoon.md)
+  * Lecture [Video](ComingSoon.md)  [PDF](ComingSoon.md)
+  * Tutorial [Video](ComingSoon.md) [Notebooks](ComingSoon.md)
 
 
 ## Thursday

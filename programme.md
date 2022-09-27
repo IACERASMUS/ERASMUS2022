@@ -37,7 +37,7 @@ rank: 4
   * Tutorial [Video](https://www.youtube.com/watch?v=Td5dOL7XmkY) [PDF](pdfs/vosa.pdf)
 
 * Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)
-  * [Video](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=h0t84ILQxxI)
   * [PDF](ComingSoon.md)
 
 * [Interferometry - Henri Boffin (ESO)](ComingSoon.md)

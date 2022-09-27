@@ -28,13 +28,17 @@ rank: 4
 
 ## Tuesday
 
-* [Stellar parameters from spectroscopy - Hugo Tabernero (CAB)](ComingSoon.md)
+* Stellar parameters from spectroscopy - Hugo Tabernero (CAB)]
+  * [Video](https://www.youtube.com/watch?v=49XSRGdEkh0)
+  * [PDF](ComingSoon.md)
 
 * Virtual Observatory - Alba Aller (CAB)
-  * [Lecture](ComingSoon.md)
-  * [Tutorial](pdfs/vosa.pdf)
+  * Lecture [Video](https://www.youtube.com/watch?v=myfEoiYqpsQ) [pdf](ComingSoon.md)
+  * Tutorial [pdf](pdfs/vosa.pdf)
 
-* [Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)](ComingSoon.md)
+* Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
 
 * [Interferometry - Henri Boffin (ESO)](ComingSoon.md)
   * [Lecture](ComingSoon.md)

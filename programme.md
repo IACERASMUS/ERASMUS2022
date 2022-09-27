@@ -50,15 +50,17 @@ rank: 4
   * [Lecture](pdfs/Binaries_Jones.pdf)
   * [Tutorial](Dave.md)
 
-* Afternoon visit to GTC
+* MUSE - Julia Bodensteiner (ESO)
+  * [Lecture](ComingSoon.md)
+  * [Tutorial](ComingSoon.md)
+
 
 ## Thursday
 
 * [Asteroseismology - Cole Johnston (RU)](ComingSoon.md)
 
-* MUSE - Julia Bodensteiner (ESO)
-  * [Lecture](ComingSoon.md)
-  * [Tutorial](ComingSoon.md)
+* Afternoon visit to GTC
+
 
 ## Friday
 

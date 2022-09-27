@@ -42,7 +42,7 @@ rank: 4
 
 * [Interferometry - Henri Boffin (ESO)](ComingSoon.md)
   * [Video](https://www.youtube.com/watch?v=AFdOfhpTusg)
-  * [PDF](ComingSoon.md)
+  * [PDF](pdfs/Interferometry_Boffin.pdf)
   * [Data for tutorial](Interferometry.md)
 
 ## Wednesday

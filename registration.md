@@ -32,7 +32,7 @@ The school will include both traditional lectures and more hands-on tutorials.  
    * exoplanet
    * lightkurve
    * progress
-   * [pythia](https://github.com/colej/pythia)
+   * [pythia](https://github.com/colej/pythia) [(Install guide)](pdfs/pythia_guide.pdf)
 
 * [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/)
 

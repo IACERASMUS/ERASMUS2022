@@ -54,6 +54,7 @@ rank: 4
 * MUSE - Julia Bodensteiner (ESO)
   * Lecture [Video](ComingSoon.md)  [PDF](ComingSoon.md)
   * Tutorial [Video](ComingSoon.md) [Notebooks](ComingSoon.md)
+  * Tutorial data on anonymous FTP at [ftp.iac.es/out/hands_on.tar.gz](ftp://ftp.iac.es/out/hands_on.tar.gz)
 
 
 ## Thursday

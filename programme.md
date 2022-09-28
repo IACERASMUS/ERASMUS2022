@@ -51,7 +51,7 @@ rank: 4
   * [Video part 1](https://www.youtube.com/watch?v=WPHqVyHY6bE), [Video part 2](https://www.youtube.com/watch?v=Ax-btGSrf7s), [PDF](pdfs/Binaries_Jones.pdf),  [Notebooks](Dave.md)
 
 * MUSE - Julia Bodensteiner (ESO)
-  * [Video part 1](ComingSoon.md), [Video part 2](ComingSoon.md), [PDF](ComingSoon.md)
+  * [Video part 1](https://www.youtube.com/watch?v=GD11Z6xX09o), [Video part 2](https://www.youtube.com/watch?v=bbpi1HSwD1U), [PDF](ComingSoon.md)
   * Tutorial data on anonymous FTP at [ftp.iac.es/out/hands_on.tar.gz](ftp://ftp.iac.es/out/hands_on.tar.gz)
 
 

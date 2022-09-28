@@ -58,7 +58,7 @@ rank: 4
 ## Thursday
 
 * Asteroseismology - Cole Johnston (RU)
-  * [Video part 1](ComingSoon.md), [Video part 2](ComingSoon.md), [PDF1](pdfs/Johnston_I.pdf), [PDF1](pdfs/Johnston_II.pdf), [Notebooks](ComingSoon.md)
+  * [Video part 1](ComingSoon.md), [Video part 2](ComingSoon.md), [PDF1](pdfs/Johnston_I.pdf), [PDF1](pdfs/Johnston_II.pdf), [Notebooks](Cole.md)
 
 * Afternoon visit to GTC
 

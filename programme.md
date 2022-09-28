@@ -48,19 +48,17 @@ rank: 4
 ## Wednesday
 
 * Binaries - David Jones (IAC)
-  * [Video part 1](https://www.youtube.com/watch?v=WPHqVyHY6bE) [Video part 2](https://www.youtube.com/watch?v=Ax-btGSrf7s) [PDF](pdfs/Binaries_Jones.pdf)  [Notebooks](Dave.md)
+  * [Video part 1](https://www.youtube.com/watch?v=WPHqVyHY6bE), [Video part 2](https://www.youtube.com/watch?v=Ax-btGSrf7s), [PDF](pdfs/Binaries_Jones.pdf),  [Notebooks](Dave.md)
 
 * MUSE - Julia Bodensteiner (ESO)
-  * Lecture [Video](ComingSoon.md)  [PDF](ComingSoon.md)
-  * Tutorial [Video](ComingSoon.md) [Notebooks](ComingSoon.md)
+  * [Video part 1](ComingSoon.md), [Video part 2](ComingSoon.md), [PDF](ComingSoon.md)
   * Tutorial data on anonymous FTP at [ftp.iac.es/out/hands_on.tar.gz](ftp://ftp.iac.es/out/hands_on.tar.gz)
 
 
 ## Thursday
 
 * Asteroseismology - Cole Johnston (RU)
-  * Lecture [Video](ComingSoon.md) [PDF1](pdfs/Johnston_I.pdf) [PDF1](pdfs/Johnston_II.pdf)
-  * Tutorial [Video](ComingSoon.md) [Notebooks](ComingSoon.md)
+  * [Video part 1](ComingSoon.md), [Video part 2](ComingSoon.md), [PDF1](pdfs/Johnston_I.pdf), [PDF1](pdfs/Johnston_II.pdf), [Notebooks](ComingSoon.md)
 
 * Afternoon visit to GTC
 

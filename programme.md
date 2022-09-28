@@ -49,7 +49,7 @@ rank: 4
 
 * Binaries - David Jones (IAC)
   * Lecture [Video](ComingSoon.md)  [PDF](pdfs/Binaries_Jones.pdf)
-  * Tutorial [Video](ComingSoon.md) [Notebooks](Dave.md)
+  * Tutorial [Video part 1](https://www.youtube.com/watch?v=WPHqVyHY6bE) [Video part 2](https://www.youtube.com/watch?v=Ax-btGSrf7s) [Notebooks](Dave.md)
 
 * MUSE - Julia Bodensteiner (ESO)
   * Lecture [Video](ComingSoon.md)  [PDF](ComingSoon.md)

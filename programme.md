@@ -38,7 +38,7 @@ rank: 4
 
 * Spectroscopic Surveys - Alberto Rebassa-Mansergas (UPC)
   * [Video](https://www.youtube.com/watch?v=h0t84ILQxxI)
-  * [PDF](ComingSoon.md)
+  * [PDF](pdfs/Rebassa-Mansergas.pdf)
 
 * [Interferometry - Henri Boffin (ESO)](ComingSoon.md)
   * [Video](https://www.youtube.com/watch?v=AFdOfhpTusg)

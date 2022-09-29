@@ -58,21 +58,28 @@ rank: 4
 ## Thursday
 
 * Asteroseismology - Cole Johnston (RU)
-  * [Video part 1](ComingSoon.md), [Video part 2](ComingSoon.md), [PDF1](pdfs/Johnston_I.pdf), [PDF1](pdfs/Johnston_II.pdf), [Notebooks](Cole.md)
+  * [Video part 1](https://www.youtube.com/watch?v=nhz1iP5DEsM), [Video part 2](ComingSoon.md), [PDF1](pdfs/Johnston_I.pdf), [PDF2](pdfs/Johnston_II.pdf), [Notebooks](Cole.md)
 
 * Afternoon visit to GTC
 
 
 ## Friday
 
-* [Scientific Publishing - Paul Woods (Nature)](ComingSoon.md)
+* Scientific Publishing - Paul Woods (Nature)
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
 
-* [Tidal Asteroseismology - Cole Johnston (RU)](ComingSoon.md)
+* Tidal Asteroseismology - Cole Johnston (RU)
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
 
-* [Applying for Observing Time - Tereza Jerabkova (ESO)](ComingSoon.md)
+* Applying for Observing Time - Tereza Jerabkova (ESO)
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
 
-* [Communicating your results - Henri Boffin (ESO)](ComingSoon.md)
-
+* Communicating your results - Henri Boffin (ESO)
+  * [Video](ComingSoon.md)
+  * [PDF](ComingSoon.md)
 <!-- *
 
 [Test notebook](notebooks/Dave/test.md)

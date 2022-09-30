@@ -75,7 +75,7 @@ rank: 4
 
 * Applying for Observing Time - Tereza Jerabkova (ESO)
   * [Video](https://www.youtube.com/watch?v=jTxdXNgRaks)
-  * [PDF](ComingSoon.md)
+  * [PDF](pdfs/Jerabkova.pdf)
 
 * Communicating your results - Henri Boffin (ESO)
   * [Video](ComingSoon.md)

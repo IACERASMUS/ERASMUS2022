@@ -78,5 +78,5 @@ rank: 4
   * [PDF](pdfs/Jerabkova.pdf)
 
 * Communicating your results - Henri Boffin (ESO)
-  * [Video](ComingSoon.md)
-  * [PDF](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=4NbU4IC473A)
+  * [PDF](pdfs/Boffin_Communicating.pdf)

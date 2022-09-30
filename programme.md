@@ -66,15 +66,15 @@ rank: 4
 ## Friday
 
 * Scientific Publishing - Paul Woods (Nature)
-  * [Video](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=Y8IJpW0401E)
   * [PDF](ComingSoon.md)
 
 * Tidal Asteroseismology - Cole Johnston (RU)
-  * [Video](ComingSoon.md)
-  * [PDF](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=zRI8VoxMDcI)
+  * [PDF](pdfs/Johnston_III.pdf)
 
 * Applying for Observing Time - Tereza Jerabkova (ESO)
-  * [Video](ComingSoon.md)
+  * [Video](https://www.youtube.com/watch?v=jTxdXNgRaks)
   * [PDF](ComingSoon.md)
 
 * Communicating your results - Henri Boffin (ESO)

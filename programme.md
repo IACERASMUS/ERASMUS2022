@@ -40,7 +40,7 @@ rank: 4
   * [Video](https://www.youtube.com/watch?v=h0t84ILQxxI)
   * [PDF](pdfs/Rebassa-Mansergas.pdf)
 
-* [Interferometry - Henri Boffin (ESO)](ComingSoon.md)
+* Interferometry - Henri Boffin (ESO)
   * [Video](https://www.youtube.com/watch?v=AFdOfhpTusg)
   * [PDF](pdfs/Interferometry_Boffin.pdf)
   * [Data for tutorial](Interferometry.md)
@@ -67,7 +67,7 @@ rank: 4
 
 * Scientific Publishing - Paul Woods (Nature)
   * [Video](https://www.youtube.com/watch?v=Y8IJpW0401E)
-  * [PDF](ComingSoon.md)
+  * [PDF](pdfs/Woods.pdf)
 
 * Tidal Asteroseismology - Cole Johnston (RU)
   * [Video](https://www.youtube.com/watch?v=zRI8VoxMDcI)
